@@ -1,0 +1,10 @@
+{
+  "description": "An intuitive platform for English teachers to manage classes, assign homework, and track student progress, enhancing the learning experience for both educators and students.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
